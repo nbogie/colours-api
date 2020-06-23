@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nbogie/colours-api/issues"
   },
-  "homepage": "https://github.com/nbogie/colours-api#readme"
+  "homepage": "https://github.com/nbogie/colours-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nice-color-palettes": "^3.0.0"
+  }
 }

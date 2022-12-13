@@ -18,7 +18,7 @@
   "homepage": "https://github.com/nbogie/colours-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nice-color-palettes": "^3.0.0"
   }
 }
